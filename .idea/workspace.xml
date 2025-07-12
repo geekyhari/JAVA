@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6980afb7-8517-4749-b466-beb2e9f24a4d" name="Changes" comment="Commit message">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Advance/Race_Condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Applications/Captcha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Applications/PasswordGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/ArrayList/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Arrays_/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Arrays_/FirstThreeLargestElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Arrays_/PassingMethodsToArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Arrays_/SecondLargestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Arrays_/Sort0s1s.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Arrays_/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Arrays_/Sort_zeros_ones_twosM2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Basics/basic_questions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Basics/helloworld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Basics/practice_questions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Basics/type_cast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Basics/updatingvariables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Basics/user_input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/BinarySearch/Binary_Search.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Conditionals/calculatorIfelse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Conditionals/greatest_of_three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Conditionals/least_of_three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/ObjectOrientedProgramming/Dynamic_method_Dispatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/ObjectOrientedProgramming/Interfaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/ObjectOrientedProgramming/Overridekeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/ObjectOrientedProgramming/PackageExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/ObjectOrientedProgramming/SuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Pattern_Printing/Composite_patterns/NumberPyramidPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Pattern_Printing/Composite_patterns/StarBridge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Pattern_Printing/Composite_patterns/StarTriangleVerticallyFlipped.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Pattern_Printing/Special_Patterns/BinaryTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Pattern_Printing/Squares/starRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Pattern_Printing/Triangle/homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Random_/BrokenClock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Random_/Candies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Recursions/factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Stacks/Using_Arraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Stream_API/Paralel_Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Strings/InputStingBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Strings/Stringbuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Strings/convertTOstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/TwoDimensionalArray/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/TwoDimensionalArray/PrintingMatrixInWaveform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/TwoDimensionalArray/RotateArrayBy90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/TwoDimensionalArray/Transpose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Project/src/Stream_API/Basics.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Project/src/Stream_API/Basics.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;geekyhari&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/geekyhari/JAVA.git&quot;,
+    &quot;accountId&quot;: &quot;94230857-bc3b-4af4-900b-c15d14b1e332&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Java_Project/src/Stacks/CF.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2pjSpI2fd4vkLBaTOoeX1Lc8CQL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortKey" value="BY_TIME_ASCENDING" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Abstraction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BAsics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Bank.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Basics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Binary_Search.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CF.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Captcha.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CipherGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Circular.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionFramework.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Comparator_Comparable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Custom_Exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dynamic_method_Dispatch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Enum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Enum_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exceptions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstLastPosnofElemnt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interfaces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lambda.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ListNodeClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LowerBound.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Need_for_Interfaces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Operations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Overridekeyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Paralel_Stream.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PasswordGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PeakIndex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Push_at_Bottom.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Race_Condition.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Random.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RandomNos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Runnables.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Singly.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SqrtofX.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SuperKeyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Thread_Priority_Sleep.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Threads.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Throw_keyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Throws_keyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UpperBound.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Using_Arraylist.executor&quot;: &quot;Run&quot;,
+    &quot;Application.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.helloworld.executor&quot;: &quot;Run&quot;,
+    &quot;Application.multi_5_7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.statickeyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.type_cast.executor&quot;: &quot;Run&quot;,
+    &quot;Application.updatingvariables.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shrih/OneDrive - kletech.ac.in/JAVA&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6980afb7-8517-4749-b466-beb2e9f24a4d" name="Changes" comment="" />
+      <created>1733278173378</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733278173378</updated>
+      <workItem from="1739643008922" duration="118000" />
+      <workItem from="1739643143845" duration="63000" />
+      <workItem from="1739643214826" duration="171000" />
+      <workItem from="1739643543030" duration="35000" />
+      <workItem from="1751654411003" duration="46000" />
+      <workItem from="1751654476973" duration="124000" />
+      <workItem from="1751654656416" duration="741000" />
+      <workItem from="1751726942970" duration="599000" />
+      <workItem from="1751727704144" duration="727000" />
+      <workItem from="1751784282697" duration="53000" />
+      <workItem from="1751809002680" duration="2292000" />
+      <workItem from="1751813848301" duration="3000" />
+      <workItem from="1751868324722" duration="5474000" />
+      <workItem from="1751914630758" duration="5224000" />
+      <workItem from="1751958791472" duration="364000" />
+      <workItem from="1751987146611" duration="3433000" />
+      <workItem from="1752045083714" duration="3663000" />
+      <workItem from="1752074365912" duration="1783000" />
+      <workItem from="1752088006859" duration="2946000" />
+      <workItem from="1752136951963" duration="3258000" />
+      <workItem from="1752161350715" duration="1301000" />
+      <workItem from="1752171927510" duration="180000" />
+      <workItem from="1752216411896" duration="2680000" />
+      <workItem from="1752242415877" duration="1984000" />
+      <workItem from="1752253006639" duration="7979000" />
+      <workItem from="1752328011891" duration="1663000" />
+      <workItem from="1752333378839" duration="1826000" />
+      <workItem from="1752341642471" duration="2857000" />
+      <workItem from="1752344546083" duration="26000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commit message">
+      <option name="closed" value="true" />
+      <created>1752333436591</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752333436591</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit message" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit message" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
