@@ -21,14 +21,26 @@ public class Paralel_Stream {
 
         long start1 = System.currentTimeMillis();
         int sum2 = nums.stream()
-                .map(n -> n*2)
+                .map(n -> {
+                    try{
+                        Thread.sleep(1);
+                    }catch(Exception e){
+                    }
+                    return n*2;
+                })
                 .mapToInt(n -> n)
                 .sum();
         long end1 = System.currentTimeMillis();
 
         long start2 = System.currentTimeMillis();
         int sum3 = nums.parallelStream()
-                        .map(n -> n*2)
+                        .map(n ->{
+                            try{
+                                Thread.sleep(1);
+                            }catch(Exception e){
+                            }
+                            return n*2;
+                        })
                                 .mapToInt(n -> n)
                                         .sum();
         long end2 = System.currentTimeMillis();

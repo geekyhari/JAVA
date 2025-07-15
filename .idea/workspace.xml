@@ -5,55 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6980afb7-8517-4749-b466-beb2e9f24a4d" name="Changes" comment="Commit message">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Advance/Race_Condition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Applications/Captcha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Applications/PasswordGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/ArrayList/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Arrays_/Basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Arrays_/FirstThreeLargestElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Arrays_/PassingMethodsToArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Arrays_/SecondLargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Arrays_/Sort0s1s.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Arrays_/SortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Arrays_/Sort_zeros_ones_twosM2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Basics/basic_questions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Basics/helloworld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Basics/practice_questions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Basics/type_cast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Basics/updatingvariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Basics/user_input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/BinarySearch/Binary_Search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Conditionals/calculatorIfelse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Conditionals/greatest_of_three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Conditionals/least_of_three.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/ObjectOrientedProgramming/Dynamic_method_Dispatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/ObjectOrientedProgramming/Interfaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/ObjectOrientedProgramming/Overridekeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/ObjectOrientedProgramming/PackageExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/ObjectOrientedProgramming/SuperKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Pattern_Printing/Composite_patterns/NumberPyramidPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Pattern_Printing/Composite_patterns/StarBridge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Pattern_Printing/Composite_patterns/StarTriangleVerticallyFlipped.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Pattern_Printing/Special_Patterns/BinaryTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Pattern_Printing/Squares/starRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Pattern_Printing/Triangle/homework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Random_/BrokenClock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Random_/Candies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Recursions/factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Sorting/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Stacks/Using_Arraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Stream_API/Paralel_Stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Strings/InputStingBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Strings/Stringbuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/Strings/convertTOstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/TwoDimensionalArray/Basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/TwoDimensionalArray/PrintingMatrixInWaveform.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/TwoDimensionalArray/RotateArrayBy90.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Project/src/TwoDimensionalArray/Transpose.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Project/src/Stream_API/Basics.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Project/src/Stream_API/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_Project/src/Stream_API/Reference.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_Project/src/Stream_API/Paralel_Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Project/src/Stream_API/Paralel_Stream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +86,8 @@
     &quot;Application.Methods.executor&quot;: &quot;Run&quot;,
     &quot;Application.Need_for_Interfaces.executor&quot;: &quot;Run&quot;,
     &quot;Application.Operations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Optional.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Optional_class.executor&quot;: &quot;Run&quot;,
     &quot;Application.Overridekeyword.executor&quot;: &quot;Run&quot;,
     &quot;Application.Paralel_Stream.executor&quot;: &quot;Run&quot;,
     &quot;Application.PasswordGenerator.executor&quot;: &quot;Run&quot;,
@@ -141,6 +97,7 @@
     &quot;Application.Race_Condition.executor&quot;: &quot;Run&quot;,
     &quot;Application.Random.executor&quot;: &quot;Run&quot;,
     &quot;Application.RandomNos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reference.executor&quot;: &quot;Run&quot;,
     &quot;Application.Reverse.executor&quot;: &quot;Run&quot;,
     &quot;Application.Runnables.executor&quot;: &quot;Run&quot;,
     &quot;Application.Singly.executor&quot;: &quot;Run&quot;,
@@ -177,7 +134,7 @@
     &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -226,6 +183,10 @@
       <workItem from="1752333378839" duration="1826000" />
       <workItem from="1752341642471" duration="2857000" />
       <workItem from="1752344546083" duration="26000" />
+      <workItem from="1752344630269" duration="409000" />
+      <workItem from="1752504008858" duration="1210000" />
+      <workItem from="1752557639514" duration="3783000" />
+      <workItem from="1752584545773" duration="3071000" />
     </task>
     <task id="LOCAL-00001" summary="Commit message">
       <option name="closed" value="true" />
@@ -235,15 +196,53 @@
       <option name="project" value="LOCAL" />
       <updated>1752333436591</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit message">
+      <option name="closed" value="true" />
+      <created>1752344647199</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752344647199</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="17996423-9bab-4a2f-ad92-471c8f31b258" value="TOOL_WINDOW" />
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
+        <entry key="17996423-9bab-4a2f-ad92-471c8f31b258">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
